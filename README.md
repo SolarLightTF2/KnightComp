@@ -12,10 +12,7 @@ Weapon bans: Stickybomb Launcher, Scottish Resistance, Quickiebomb Launcher, Sti
 
 Note that there is no actual way to ban the stock Sticky Launcher without any plugins. Fortunately, we have not had any cases of people griefing with stickies because nobody wants to get kicked or banned.
 
-# How to use?
+# Plugin
 
-Every file except "KnightComp_ETF2L_Override.cfg" is intended for server use.
+Console command is sm_disablestickies 1. It is executed automatically by the config, enabling it if the plugin is present on the server.
 
-"KnightComp_ETF2L_Override.cfg" is intended to be used on a client's PC, in cases where the server does not support KnightComp but DOES support an ETF2L 6v6 Config.
-
-In these cases, whoever has rcon access executes this script on their client and it sends a lot of commands through rcon to set up the server for KnightComp. However, the server MUST have been using an ETF2L 6v6 config beforehand.

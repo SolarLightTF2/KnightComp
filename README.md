@@ -8,7 +8,7 @@ Classlimits: 1 Soldier, 6 Demoknight, 1 Medic, 0 for all else
 
 Supported gamemodes: 5CP, KOTH, Stopwatch, CTF, Pass Time (though pass time and stopwatch are unlikely to be played)
 
-Weapon bans: Stickybomb Launcher, Scottish Resistance, Quickiebomb Launcher, Sticky Jumper, Vaccinator
+Weapon bans: Stickybomb Launcher, Scottish Resistance, Quickiebomb Launcher, Sticky Jumper, Vaccinator, B.A.S.E Jumper
 
 # Plugin
 
